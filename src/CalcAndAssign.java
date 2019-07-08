@@ -9,6 +9,7 @@ public class CalcAndAssign {
 
         a*=9;
         System.out.println(a);
+        System.out.println("tom,你好");
     }
 
 
